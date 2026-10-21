@@ -1,0 +1,8 @@
+{
+  "Uber Eats": "com.ubercab.UberEats",
+  "Uber": "com.ubercab.UberClient",
+  "DoorDash": "doordash.DoorDashConsumer",
+  "Expedia": "com.expedia.booking",
+  "Amazon": "com.amazon.Amazon",
+  "Settings": "com.apple.Preferences"
+}
